@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Basile Jeannot A.K.A. @fan2bolide
-- 👀 I’m interested in IT, IoT, Dev, Network and software
-- 🌱 I’m currently learning C and C++ at 42
+- 👀 I’m interested in IT, IoT, Network and software development
+- 🌱 I’m currently learning C and C++ at 42, and I'm also interested in technologies like Rust and Go
 - 📫 You can reach me through basiljeannot@gmail.com
 
 <!---
