@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Basile Jeannot A.K.A. @fan2bolide
-- 👀 I’m interested in IT, IoT, Network and software development
-- 🌱 I’m currently learning C and C++ at 42, and I'm also interested in technologies like Rust and Go
-- 📫 You can reach me through basiljeannot@gmail.com
-
-<!---
-fan2bolide/fan2bolide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in IT and software development, system programming and backend interfaces
+- 🧠 I did learn C, C++ and Python during my Common Core at 42Lyon
+- 🌱 I’m currently learning Rust, and making some system level projects to deep my knowledge
+- ⚡ I'm also interested in learning Zig as a following of my C skills
+- 📫 You can reach me through bajeanno@student.42lyon.fr
